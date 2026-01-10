@@ -12,7 +12,6 @@ class Manager extends Person {
      this.managerId = managerId;
      this.department = department;
  }
-
  // Method to display manager details
  void displayManagerDetails() {
      displayPersonDetails(); // calling superclass method

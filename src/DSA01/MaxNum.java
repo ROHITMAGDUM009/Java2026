@@ -23,6 +23,6 @@ public static void main(String[] args) {
 		}
 	}
 	System.out.println("Max = " + max1);
-	
+	//Output = Max = 40
 }
 }
